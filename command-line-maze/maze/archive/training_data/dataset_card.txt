@@ -1,0 +1,8 @@
+﻿DATASET CARD (redacted):
+- size: unknown
+- creator: unknown
+- consent: unclear
+
+Clue:
+If you can’t see the model, you can’t see the author.
+Try going to the hidden model folder in the maze root.

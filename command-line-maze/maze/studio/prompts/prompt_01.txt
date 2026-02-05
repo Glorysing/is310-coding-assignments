@@ -1,0 +1,6 @@
+﻿PROMPT 01:
+"Write like a human."
+
+Clue:
+Outputs can lie. Look for provenance.
+Go to: ../../archive

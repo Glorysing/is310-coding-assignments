@@ -1,0 +1,11 @@
+﻿Welcome to **AUTHORS IN THE MACHINE**.
+
+Goal: find the FINAL_VERDICT.txt
+
+Rules:
+- Use cd / ls to navigate
+- Use cat (or type) to read files
+- If you feel stuck, try listing hidden items.
+
+First hint:
+Go where prompts are written, not where outputs are shown.

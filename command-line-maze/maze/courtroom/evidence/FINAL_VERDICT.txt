@@ -1,0 +1,8 @@
+﻿FINAL VERDICT:
+Authorship is a chain:
+human intent → prompt → model → output → interpretation.
+
+You solved the maze ✅
+Take a screenshot of:
+- your terminal path
+- and 'cat FINAL_VERDICT.txt'

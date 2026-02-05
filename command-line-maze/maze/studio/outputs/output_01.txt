@@ -1,0 +1,6 @@
+﻿OUTPUT 01:
+This text looks polished, so it must be true.
+
+Clue (misleading on purpose):
+"Case closed."  (It's not.)
+If you want evidence, don't trust outputs alone.

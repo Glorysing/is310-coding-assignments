@@ -1,0 +1,5 @@
+﻿MODEL WEIGHTS (metaphor):
+The model is not a person, but it shapes the text.
+
+Next:
+Go to courtroom/evidence and read chain_of_custody.txt
