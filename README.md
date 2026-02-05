@@ -18,4 +18,4 @@
 
 I plan to use ChatGPT to help with brainstorming, debugging, and understanding course concepts.
 
-Hypothesis username: TBD
+Hypothesis username: GlorysingRY
