@@ -1,23 +1,49 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Doom 1.2 (Floppy Version) – Internet Archive</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Raymond Lu | Digital Portfolio</title>
 
   <style>
     body {
       font-family: Arial, sans-serif;
-      margin: 40px;
-      background-color: #f4f4f4;
+      margin: 0;
+      padding: 40px 20px;
+      background-color: #2f2f2f;
+      color: #f5f5f5;
       line-height: 1.6;
+      display: flex;
+      justify-content: center;
+    }
+
+    .container {
+      max-width: 900px;
+      width: 100%;
+    }
+
+    header {
+      margin-bottom: 40px;
+      text-align: center;
+    }
+
+    header h1 {
+      margin-bottom: 5px;
+      font-size: 32px;
+    }
+
+    header h2 {
+      margin-top: 0;
+      font-weight: normal;
+      color: #cccccc;
     }
 
     .card {
-      background: white;
+      background: #3c3c3c;
       padding: 25px;
       border-radius: 12px;
-      max-width: 850px;
-      box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+      box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+      margin-bottom: 30px;
     }
 
     img {
@@ -27,10 +53,19 @@
     }
 
     .meta {
-      background: #eeeeee;
+      background: #4a4a4a;
       padding: 15px;
       border-radius: 10px;
       margin-top: 20px;
+    }
+
+    a {
+      color: #4db8ff;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
     }
 
     button {
@@ -41,66 +76,115 @@
       background-color: #cc0000;
       color: white;
       cursor: pointer;
+      font-weight: bold;
     }
 
     button:hover {
       background-color: #990000;
+    }
+
+    .importance {
+      margin-top: 15px;
+      display: none;
+      background: #4a4a4a;
+      padding: 15px;
+      border-radius: 8px;
+    }
+
+    footer {
+      text-align: center;
+      margin-top: 40px;
+      font-size: 14px;
+      color: #aaaaaa;
     }
   </style>
 </head>
 
 <body>
 
-  <h1>Doom 1.2 (Floppy Version)</h1>
+  <div class="container">
 
-  <div class="card">
+    <!-- Portfolio Header -->
+    <header>
+      <h1>Glory Lu</h1>
+      <h2>Student | Digital Culture & Data</h2>
+      <p>
+        I am interested in digital archives, video game history, and how the web preserves cultural artifacts.
+        This portfolio showcases my exploration of digital objects and cultural data.
+      </p>
+      <p>
+        GitHub:
+        <a href="https://github.com/Glorysing" target="_blank">
+          https://github.com/Glorysing
+        </a>
+      </p>
+    </header>
 
-    <p>
-      Doom (1993) by id Software is one of the most influential first-person shooters in video game history.
-      Version 1.2, distributed on floppy disks, represents an early stage of PC game distribution and
-      shareware culture. Its preservation on the Internet Archive demonstrates how digital games
-      transition from commercial products into cultural artifacts.
-    </p>
+    <!-- Featured Project -->
+    <div class="card">
 
-    <img src="https://archive.org/services/img/doom1.21" alt="Doom Cover Art" />
+      <h2>Featured Project: Doom 1.2 (Floppy Version)</h2>
 
-    <div class="meta">
-      <h2>Metadata</h2>
-      <ul>
-        <li>Developer: id Software</li>
-        <li>Release Year: 1993</li>
-        <li>Publication Date (Archive): 1994-02-17</li>
-        <li>Platform: MS-DOS</li>
-        <li>Genre: First Person Shooter</li>
-        <li>Format: ISO Image (Floppy Disk)</li>
-        <li>Language: English</li>
-        <li>Source Archive: Internet Archive</li>
-      </ul>
+      <p>
+        Doom (1993) by id Software is one of the most influential first-person shooters in video game history.
+        Version 1.2, distributed on floppy disks, represents an early stage of PC game distribution and
+        shareware culture. Its preservation on the Internet Archive demonstrates how digital games
+        transition from commercial products into cultural artifacts.
+      </p>
+
+      <img src="https://archive.org/services/img/doom1.21" alt="Doom Cover Art" />
+
+      <div class="meta">
+        <h3>Metadata</h3>
+        <ul>
+          <li><strong>Developer:</strong> id Software</li>
+          <li><strong>Release Year:</strong> 1993</li>
+          <li><strong>Publication Date (Archive):</strong> 1994-02-17</li>
+          <li><strong>Platform:</strong> MS-DOS</li>
+          <li><strong>Genre:</strong> First Person Shooter</li>
+          <li><strong>Format:</strong> ISO Image (Floppy Disk)</li>
+          <li><strong>Language:</strong> English</li>
+          <li><strong>Source Archive:</strong> Internet Archive</li>
+        </ul>
+      </div>
+
+      <p>
+        Original collection:
+        <a href="https://archive.org/details/software" target="_blank">
+          Internet Archive – Software Collection
+        </a>
+      </p>
+
+      <p>
+        Specific object:
+        <a href="https://archive.org/details/doom1.21" target="_blank">
+          View Doom 1.2 (Floppy Version)
+        </a>
+      </p>
+
+      <button onclick="toggleImportance()">
+        Why this object matters
+      </button>
+
+      <div id="importanceText" class="importance">
+        Doom 1.2 reflects early digital distribution, PC gaming culture,
+        and the preservation challenges of executable software.
+        Its presence in the Internet Archive transforms it from commercial
+        software into cultural heritage.
+      </div>
+
     </div>
 
-    <p>
-      Original collection link:
-      <a href="https://archive.org/details/software" target="_blank">
-        Internet Archive – Software Collection
-      </a>
-    </p>
-
-    <p>
-      Specific object link:
-      <a href="https://archive.org/details/doom1.21" target="_blank">
-        View Doom 1.2 (Floppy Version)
-      </a>
-    </p>
-
-    <button onclick="showImportance()">
-      Why this object matters
-    </button>
+    <footer>
+      IS 310 – Doing It Live Assignment | 2026
+    </footer>
 
   </div>
 
   <script>
-    function showImportance() {
-      alert("Doom 1.2 reflects early digital distribution, PC gaming culture, and the preservation challenges of executable software. Its presence in the Internet Archive transforms it from commercial software into cultural heritage.");
+    function toggleImportance() {
+      const text = document.getElementById("importanceText");
+      text.style.display = text.style.display === "block" ? "none" : "block";
     }
   </script>
 
