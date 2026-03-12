@@ -149,11 +149,11 @@ writing data to a JSON file
 
 working with file paths
 
-Reflection
+## Reflection
 
 This project helped me understand how command-line applications can be used for manual data curation. It also showed how user input, loops, and file writing can work together in a simple data collection workflow. Using Rich made the application easier to read and more visually organized in the terminal.
 
-Author
+## Author
 
 Raymond Lu
 
