@@ -68,8 +68,10 @@ pip install cloudscraper beautifulsoup4
 
 Running the script creates the following output file:
 
-genshin_characters.json
-Files in This Folder
-fandom_wiki_scraping.py — the Python script used to scrape the wiki
-genshin_characters.json — the scraped dataset
-README.md — explanation of the project and scraping process
+- genshin_characters.json
+
+Files in This Folder:
+
+- fandom_wiki_scraping.py — the Python script used to scrape the wiki
+- genshin_characters.json — the scraped dataset
+- README.md — explanation of the project and scraping process
