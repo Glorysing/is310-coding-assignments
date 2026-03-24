@@ -1,0 +1,1132 @@
+[
+    {
+        "name": "Aino",
+        "quality": "4 Stars",
+        "element": "Hydro",
+        "weapon": "Claymore",
+        "region": "Nod-Krai",
+        "model_type": "Short Female",
+        "release_date": "September 10, 2025",
+        "version": "Luna I"
+    },
+    {
+        "name": "Albedo",
+        "quality": "5 Stars",
+        "element": "Geo",
+        "weapon": "Sword",
+        "region": "Mondstadt",
+        "model_type": "Medium Male",
+        "release_date": "December 23, 2020",
+        "version": "1.2"
+    },
+    {
+        "name": "Alhaitham",
+        "quality": "5 Stars",
+        "element": "Dendro",
+        "weapon": "Sword",
+        "region": "Sumeru",
+        "model_type": "Tall Male",
+        "release_date": "January 18, 2023",
+        "version": "3.4"
+    },
+    {
+        "name": "Aloy",
+        "quality": "5 Stars",
+        "element": "Cryo",
+        "weapon": "Bow",
+        "region": "None",
+        "model_type": "Medium Female",
+        "release_date": "September 01, 2021",
+        "version": "2.1"
+    },
+    {
+        "name": "Amber",
+        "quality": "4 Stars",
+        "element": "Pyro",
+        "weapon": "Bow",
+        "region": "Mondstadt",
+        "model_type": "Medium Female",
+        "release_date": "September 28, 2020",
+        "version": "1.0"
+    },
+    {
+        "name": "Arataki Itto",
+        "quality": "5 Stars",
+        "element": "Geo",
+        "weapon": "Claymore",
+        "region": "Inazuma",
+        "model_type": "Tall Male",
+        "release_date": "December 14, 2021",
+        "version": "2.3"
+    },
+    {
+        "name": "Arlecchino",
+        "quality": "5 Stars",
+        "element": "Pyro",
+        "weapon": "Polearm",
+        "region": "Snezhnaya",
+        "model_type": "Tall Female",
+        "release_date": "April 24, 2024",
+        "version": "4.6"
+    },
+    {
+        "name": "Baizhu",
+        "quality": "5 Stars",
+        "element": "Dendro",
+        "weapon": "Catalyst",
+        "region": "Liyue",
+        "model_type": "Tall Male",
+        "release_date": "May 02, 2023",
+        "version": "3.6"
+    },
+    {
+        "name": "Barbara",
+        "quality": "4 Stars",
+        "element": "Hydro",
+        "weapon": "Catalyst",
+        "region": "Mondstadt",
+        "model_type": "Medium Female",
+        "release_date": "September 28, 2020",
+        "version": "1.0"
+    },
+    {
+        "name": "Beidou",
+        "quality": "4 Stars",
+        "element": "Electro",
+        "weapon": "Claymore",
+        "region": "Liyue",
+        "model_type": "Tall Female",
+        "release_date": "September 28, 2020",
+        "version": "1.0"
+    },
+    {
+        "name": "Bennett",
+        "quality": "4 Stars",
+        "element": "Pyro",
+        "weapon": "Sword",
+        "region": "Mondstadt",
+        "model_type": "Medium Male",
+        "release_date": "September 28, 2020",
+        "version": "1.0"
+    },
+    {
+        "name": "Candace",
+        "quality": "4 Stars",
+        "element": "Hydro",
+        "weapon": "Polearm",
+        "region": "Sumeru",
+        "model_type": "Tall Female",
+        "release_date": "September 28, 2022",
+        "version": "3.1"
+    },
+    {
+        "name": "Charlotte",
+        "quality": "4 Stars",
+        "element": "Cryo",
+        "weapon": "Catalyst",
+        "region": "Fontaine",
+        "model_type": "Medium Female",
+        "release_date": "November 08, 2023",
+        "version": "4.2"
+    },
+    {
+        "name": "Chasca",
+        "quality": "5 Stars",
+        "element": "Anemo",
+        "weapon": "Bow",
+        "region": "Natlan",
+        "model_type": "Tall Female",
+        "release_date": "November 20, 2024",
+        "version": "5.2"
+    },
+    {
+        "name": "Chevreuse",
+        "quality": "4 Stars",
+        "element": "Pyro",
+        "weapon": "Polearm",
+        "region": "Fontaine",
+        "model_type": "Medium Female",
+        "release_date": "January 09, 2024",
+        "version": "4.3"
+    },
+    {
+        "name": "Chiori",
+        "quality": "5 Stars",
+        "element": "Geo",
+        "weapon": "Sword",
+        "region": "Inazuma",
+        "model_type": "Medium Female",
+        "release_date": "March 13, 2024",
+        "version": "4.5"
+    },
+    {
+        "name": "Chongyun",
+        "quality": "4 Stars",
+        "element": "Cryo",
+        "weapon": "Claymore",
+        "region": "Liyue",
+        "model_type": "Medium Male",
+        "release_date": "September 28, 2020",
+        "version": "1.0"
+    },
+    {
+        "name": "Citlali",
+        "quality": "5 Stars",
+        "element": "Cryo",
+        "weapon": "Catalyst",
+        "region": "Natlan",
+        "model_type": "Medium Female",
+        "release_date": "January 01, 2025",
+        "version": "5.3"
+    },
+    {
+        "name": "Clorinde",
+        "quality": "5 Stars",
+        "element": "Electro",
+        "weapon": "Sword",
+        "region": "Fontaine",
+        "model_type": "Tall Female",
+        "release_date": "June 05, 2024",
+        "version": "4.7"
+    },
+    {
+        "name": "Collei",
+        "quality": "4 Stars",
+        "element": "Dendro",
+        "weapon": "Bow",
+        "region": "Sumeru",
+        "model_type": "Medium Female",
+        "release_date": "August 24, 2022",
+        "version": "3.0"
+    },
+    {
+        "name": "Columbina",
+        "quality": "5 Stars",
+        "element": "Hydro",
+        "weapon": "Catalyst",
+        "region": "Nod-Krai",
+        "model_type": "Medium Female",
+        "release_date": "January 14, 2026",
+        "version": "Luna IV"
+    },
+    {
+        "name": "Cyno",
+        "quality": "5 Stars",
+        "element": "Electro",
+        "weapon": "Polearm",
+        "region": "Sumeru",
+        "model_type": "Medium Male",
+        "release_date": "September 28, 2022",
+        "version": "3.1"
+    },
+    {
+        "name": "Dahlia",
+        "quality": "4 Stars",
+        "element": "Hydro",
+        "weapon": "Sword",
+        "region": "Mondstadt",
+        "model_type": "Medium Male",
+        "release_date": "June 18, 2025",
+        "version": "5.7"
+    },
+    {
+        "name": "Dehya",
+        "quality": "5 Stars",
+        "element": "Pyro",
+        "weapon": "Claymore",
+        "region": "Sumeru",
+        "model_type": "Tall Female",
+        "release_date": "March 01, 2023",
+        "version": "3.5"
+    },
+    {
+        "name": "Diluc",
+        "quality": "5 Stars",
+        "element": "Pyro",
+        "weapon": "Claymore",
+        "region": "Mondstadt",
+        "model_type": "Tall Male",
+        "release_date": "September 28, 2020",
+        "version": "1.0"
+    },
+    {
+        "name": "Diona",
+        "quality": "4 Stars",
+        "element": "Cryo",
+        "weapon": "Bow",
+        "region": "Mondstadt",
+        "model_type": "Short Female",
+        "release_date": "November 11, 2020",
+        "version": "1.1"
+    },
+    {
+        "name": "Dori",
+        "quality": "4 Stars",
+        "element": "Electro",
+        "weapon": "Claymore",
+        "region": "Sumeru",
+        "model_type": "Short Female",
+        "release_date": "September 09, 2022",
+        "version": "3.0"
+    },
+    {
+        "name": "Durin",
+        "quality": "5 Stars",
+        "element": "Pyro",
+        "weapon": "Sword",
+        "region": "Mondstadt",
+        "model_type": "Medium Male",
+        "release_date": "December 03, 2025",
+        "version": "Luna III"
+    },
+    {
+        "name": "Emilie",
+        "quality": "5 Stars",
+        "element": "Dendro",
+        "weapon": "Polearm",
+        "region": "Fontaine",
+        "model_type": "Medium Female",
+        "release_date": "August 06, 2024",
+        "version": "4.8"
+    },
+    {
+        "name": "Escoffier",
+        "quality": "5 Stars",
+        "element": "Cryo",
+        "weapon": "Polearm",
+        "region": "Fontaine",
+        "model_type": "Medium Female",
+        "release_date": "May 07, 2025",
+        "version": "5.6"
+    },
+    {
+        "name": "Eula",
+        "quality": "5 Stars",
+        "element": "Cryo",
+        "weapon": "Claymore",
+        "region": "Mondstadt",
+        "model_type": "Tall Female",
+        "release_date": "May 18, 2021",
+        "version": "1.5"
+    },
+    {
+        "name": "Faruzan",
+        "quality": "4 Stars",
+        "element": "Anemo",
+        "weapon": "Bow",
+        "region": "Sumeru",
+        "model_type": "Medium Female",
+        "release_date": "December 07, 2022",
+        "version": "3.3"
+    },
+    {
+        "name": "Fischl",
+        "quality": "4 Stars",
+        "element": "Electro",
+        "weapon": "Bow",
+        "region": "Mondstadt",
+        "model_type": "Medium Female",
+        "release_date": "September 28, 2020",
+        "version": "1.0"
+    },
+    {
+        "name": "Flins",
+        "quality": "5 Stars",
+        "element": "Electro",
+        "weapon": "Polearm",
+        "region": "Nod-Krai",
+        "model_type": "Tall Male",
+        "release_date": "September 30, 2025",
+        "version": "Luna I"
+    },
+    {
+        "name": "Freminet",
+        "quality": "4 Stars",
+        "element": "Cryo",
+        "weapon": "Claymore",
+        "region": "Fontaine",
+        "model_type": "Medium Male",
+        "release_date": "September 05, 2023",
+        "version": "4.0"
+    },
+    {
+        "name": "Furina",
+        "quality": "5 Stars",
+        "element": "Hydro",
+        "weapon": "Sword",
+        "region": "Fontaine",
+        "model_type": "Medium Female",
+        "release_date": "November 08, 2023",
+        "version": "4.2"
+    },
+    {
+        "name": "Gaming",
+        "quality": "4 Stars",
+        "element": "Pyro",
+        "weapon": "Claymore",
+        "region": "Liyue",
+        "model_type": "Medium Male",
+        "release_date": "January 31, 2024",
+        "version": "4.4"
+    },
+    {
+        "name": "Ganyu",
+        "quality": "5 Stars",
+        "element": "Cryo",
+        "weapon": "Bow",
+        "region": "Liyue",
+        "model_type": "Medium Female",
+        "release_date": "January 12, 2021",
+        "version": "1.2"
+    },
+    {
+        "name": "Gorou",
+        "quality": "4 Stars",
+        "element": "Geo",
+        "weapon": "Bow",
+        "region": "Inazuma",
+        "model_type": "Medium Male",
+        "release_date": "December 14, 2021",
+        "version": "2.3"
+    },
+    {
+        "name": "Hu Tao",
+        "quality": "5 Stars",
+        "element": "Pyro",
+        "weapon": "Polearm",
+        "region": "Liyue",
+        "model_type": "Medium Female",
+        "release_date": "March 02, 2021",
+        "version": "1.3"
+    },
+    {
+        "name": "Iansan",
+        "quality": "4 Stars",
+        "element": "Electro",
+        "weapon": "Polearm",
+        "region": "Natlan",
+        "model_type": "Short Female",
+        "release_date": "March 26, 2025",
+        "version": "5.5"
+    },
+    {
+        "name": "Ifa",
+        "quality": "4 Stars",
+        "element": "Anemo",
+        "weapon": "Catalyst",
+        "region": "Natlan",
+        "model_type": "Tall Male",
+        "release_date": "May 07, 2025",
+        "version": "5.6"
+    },
+    {
+        "name": "Illuga",
+        "quality": "4 Stars",
+        "element": "Geo",
+        "weapon": "Polearm",
+        "region": "Nod-Krai",
+        "model_type": "Medium Male",
+        "release_date": "February 03, 2026",
+        "version": "Luna IV"
+    },
+    {
+        "name": "Ineffa",
+        "quality": "5 Stars",
+        "element": "Electro",
+        "weapon": "Polearm",
+        "region": "Nod-Krai",
+        "model_type": "Medium Female",
+        "release_date": "July 30, 2025",
+        "version": "5.8"
+    },
+    {
+        "name": "Jahoda",
+        "quality": "4 Stars",
+        "element": "Anemo",
+        "weapon": "Bow",
+        "region": "Nod-Krai",
+        "model_type": "Medium Female",
+        "release_date": "December 03, 2025",
+        "version": "Luna III"
+    },
+    {
+        "name": "Jean",
+        "quality": "5 Stars",
+        "element": "Anemo",
+        "weapon": "Sword",
+        "region": "Mondstadt",
+        "model_type": "Tall Female",
+        "release_date": "September 28, 2020",
+        "version": "1.0"
+    },
+    {
+        "name": "Kachina",
+        "quality": "4 Stars",
+        "element": "Geo",
+        "weapon": "Polearm",
+        "region": "Natlan",
+        "model_type": "Short Female",
+        "release_date": "August 28, 2024",
+        "version": "5.0"
+    },
+    {
+        "name": "Kaedehara Kazuha",
+        "quality": "5 Stars",
+        "element": "Anemo",
+        "weapon": "Sword",
+        "region": "Inazuma",
+        "model_type": "Medium Male",
+        "release_date": "June 29, 2021",
+        "version": "1.6"
+    },
+    {
+        "name": "Kaeya",
+        "quality": "4 Stars",
+        "element": "Cryo",
+        "weapon": "Sword",
+        "region": "Mondstadt",
+        "model_type": "Tall Male",
+        "release_date": "September 28, 2020",
+        "version": "1.0"
+    },
+    {
+        "name": "Kamisato Ayaka",
+        "quality": "5 Stars",
+        "element": "Cryo",
+        "weapon": "Sword",
+        "region": "Inazuma",
+        "model_type": "Medium Female",
+        "release_date": "July 21, 2021",
+        "version": "2.0"
+    },
+    {
+        "name": "Kamisato Ayato",
+        "quality": "5 Stars",
+        "element": "Hydro",
+        "weapon": "Sword",
+        "region": "Inazuma",
+        "model_type": "Tall Male",
+        "release_date": "March 30, 2022",
+        "version": "2.6"
+    },
+    {
+        "name": "Kaveh",
+        "quality": "4 Stars",
+        "element": "Dendro",
+        "weapon": "Claymore",
+        "region": "Sumeru",
+        "model_type": "Tall Male",
+        "release_date": "May 02, 2023",
+        "version": "3.6"
+    },
+    {
+        "name": "Keqing",
+        "quality": "5 Stars",
+        "element": "Electro",
+        "weapon": "Sword",
+        "region": "Liyue",
+        "model_type": "Medium Female",
+        "release_date": "September 28, 2020",
+        "version": "1.0"
+    },
+    {
+        "name": "Kinich",
+        "quality": "5 Stars",
+        "element": "Dendro",
+        "weapon": "Claymore",
+        "region": "Natlan",
+        "model_type": "Medium Male",
+        "release_date": "September 17, 2024",
+        "version": "5.0"
+    },
+    {
+        "name": "Kirara",
+        "quality": "4 Stars",
+        "element": "Dendro",
+        "weapon": "Sword",
+        "region": "Inazuma",
+        "model_type": "Medium Female",
+        "release_date": "May 24, 2023",
+        "version": "3.7"
+    },
+    {
+        "name": "Klee",
+        "quality": "5 Stars",
+        "element": "Pyro",
+        "weapon": "Catalyst",
+        "region": "Mondstadt",
+        "model_type": "Short Female",
+        "release_date": "October 20, 2020",
+        "version": "1.0"
+    },
+    {
+        "name": "Kujou Sara",
+        "quality": "4 Stars",
+        "element": "Electro",
+        "weapon": "Bow",
+        "region": "Inazuma",
+        "model_type": "Tall Female",
+        "release_date": "September 01, 2021",
+        "version": "2.1"
+    },
+    {
+        "name": "Kuki Shinobu",
+        "quality": "4 Stars",
+        "element": "Electro",
+        "weapon": "Sword",
+        "region": "Inazuma",
+        "model_type": "Medium Female",
+        "release_date": "June 21, 2022",
+        "version": "2.7"
+    },
+    {
+        "name": "Lan Yan",
+        "quality": "4 Stars",
+        "element": "Anemo",
+        "weapon": "Catalyst",
+        "region": "Liyue",
+        "model_type": "Medium Female",
+        "release_date": "January 21, 2025",
+        "version": "5.3"
+    },
+    {
+        "name": "Lauma",
+        "quality": "5 Stars",
+        "element": "Dendro",
+        "weapon": "Catalyst",
+        "region": "Nod-Krai",
+        "model_type": "Tall Female",
+        "release_date": "September 10, 2025",
+        "version": "Luna I"
+    },
+    {
+        "name": "Layla",
+        "quality": "4 Stars",
+        "element": "Cryo",
+        "weapon": "Sword",
+        "region": "Sumeru",
+        "model_type": "Medium Female",
+        "release_date": "November 18, 2022",
+        "version": "3.2"
+    },
+    {
+        "name": "Lisa",
+        "quality": "4 Stars",
+        "element": "Electro",
+        "weapon": "Catalyst",
+        "region": "Mondstadt",
+        "model_type": "Tall Female",
+        "release_date": "September 28, 2020",
+        "version": "1.0"
+    },
+    {
+        "name": "Lynette",
+        "quality": "4 Stars",
+        "element": "Anemo",
+        "weapon": "Sword",
+        "region": "Fontaine",
+        "model_type": "Medium Female",
+        "release_date": "August 16, 2023",
+        "version": "4.0"
+    },
+    {
+        "name": "Lyney",
+        "quality": "5 Stars",
+        "element": "Pyro",
+        "weapon": "Bow",
+        "region": "Fontaine",
+        "model_type": "Medium Male",
+        "release_date": "August 16, 2023",
+        "version": "4.0"
+    },
+    {
+        "name": "Mavuika",
+        "quality": "5 Stars",
+        "element": "Pyro",
+        "weapon": "Claymore",
+        "region": "Natlan",
+        "model_type": "Tall Female",
+        "release_date": "January 01, 2025",
+        "version": "5.3"
+    },
+    {
+        "name": "Mika",
+        "quality": "4 Stars",
+        "element": "Cryo",
+        "weapon": "Polearm",
+        "region": "Mondstadt",
+        "model_type": "Medium Male",
+        "release_date": "March 21, 2023",
+        "version": "3.5"
+    },
+    {
+        "name": "Mona",
+        "quality": "5 Stars",
+        "element": "Hydro",
+        "weapon": "Catalyst",
+        "region": "Mondstadt",
+        "model_type": "Medium Female",
+        "release_date": "September 28, 2020",
+        "version": "1.0"
+    },
+    {
+        "name": "Mualani",
+        "quality": "5 Stars",
+        "element": "Hydro",
+        "weapon": "Catalyst",
+        "region": "Natlan",
+        "model_type": "Medium Female",
+        "release_date": "August 28, 2024",
+        "version": "5.0"
+    },
+    {
+        "name": "Nahida",
+        "quality": "5 Stars",
+        "element": "Dendro",
+        "weapon": "Catalyst",
+        "region": "Sumeru",
+        "model_type": "Short Female",
+        "release_date": "November 02, 2022",
+        "version": "3.2"
+    },
+    {
+        "name": "Navia",
+        "quality": "5 Stars",
+        "element": "Geo",
+        "weapon": "Claymore",
+        "region": "Fontaine",
+        "model_type": "Tall Female",
+        "release_date": "December 20, 2023",
+        "version": "4.3"
+    },
+    {
+        "name": "Nefer",
+        "quality": "5 Stars",
+        "element": "Dendro",
+        "weapon": "Catalyst",
+        "region": "Nod-Krai",
+        "model_type": "Tall Female",
+        "release_date": "October 22, 2025",
+        "version": "Luna II"
+    },
+    {
+        "name": "Neuvillette",
+        "quality": "5 Stars",
+        "element": "Hydro",
+        "weapon": "Catalyst",
+        "region": "Fontaine",
+        "model_type": "Tall Male",
+        "release_date": "September 27, 2023",
+        "version": "4.1"
+    },
+    {
+        "name": "Nilou",
+        "quality": "5 Stars",
+        "element": "Hydro",
+        "weapon": "Sword",
+        "region": "Sumeru",
+        "model_type": "Medium Female",
+        "release_date": "October 14, 2022",
+        "version": "3.1"
+    },
+    {
+        "name": "Ningguang",
+        "quality": "4 Stars",
+        "element": "Geo",
+        "weapon": "Catalyst",
+        "region": "Liyue",
+        "model_type": "Tall Female",
+        "release_date": "September 28, 2020",
+        "version": "1.0"
+    },
+    {
+        "name": "Noelle",
+        "quality": "4 Stars",
+        "element": "Geo",
+        "weapon": "Claymore",
+        "region": "Mondstadt",
+        "model_type": "Medium Female",
+        "release_date": "September 28, 2020",
+        "version": "1.0"
+    },
+    {
+        "name": "Ororon",
+        "quality": "4 Stars",
+        "element": "Electro",
+        "weapon": "Bow",
+        "region": "Natlan",
+        "model_type": "Tall Male",
+        "release_date": "November 20, 2024",
+        "version": "5.2"
+    },
+    {
+        "name": "Qiqi",
+        "quality": "5 Stars",
+        "element": "Cryo",
+        "weapon": "Sword",
+        "region": "Liyue",
+        "model_type": "Short Female",
+        "release_date": "September 28, 2020",
+        "version": "1.0"
+    },
+    {
+        "name": "Raiden Shogun",
+        "quality": "5 Stars",
+        "element": "Electro",
+        "weapon": "Polearm",
+        "region": "Inazuma",
+        "model_type": "Tall Female",
+        "release_date": "September 01, 2021",
+        "version": "2.1"
+    },
+    {
+        "name": "Razor",
+        "quality": "4 Stars",
+        "element": "Electro",
+        "weapon": "Claymore",
+        "region": "Mondstadt",
+        "model_type": "Medium Male",
+        "release_date": "September 28, 2020",
+        "version": "1.0"
+    },
+    {
+        "name": "Rosaria",
+        "quality": "4 Stars",
+        "element": "Cryo",
+        "weapon": "Polearm",
+        "region": "Mondstadt",
+        "model_type": "Tall Female",
+        "release_date": "April 06, 2021",
+        "version": "1.4"
+    },
+    {
+        "name": "Sangonomiya Kokomi",
+        "quality": "5 Stars",
+        "element": "Hydro",
+        "weapon": "Catalyst",
+        "region": "Inazuma",
+        "model_type": "Medium Female",
+        "release_date": "September 21, 2021",
+        "version": "2.1"
+    },
+    {
+        "name": "Sayu",
+        "quality": "4 Stars",
+        "element": "Anemo",
+        "weapon": "Claymore",
+        "region": "Inazuma",
+        "model_type": "Short Female",
+        "release_date": "August 10, 2021",
+        "version": "2.0"
+    },
+    {
+        "name": "Sethos",
+        "quality": "4 Stars",
+        "element": "Electro",
+        "weapon": "Bow",
+        "region": "Sumeru",
+        "model_type": "Medium Male",
+        "release_date": "June 05, 2024",
+        "version": "4.7"
+    },
+    {
+        "name": "Shenhe",
+        "quality": "5 Stars",
+        "element": "Cryo",
+        "weapon": "Polearm",
+        "region": "Liyue",
+        "model_type": "Tall Female",
+        "release_date": "January 05, 2022",
+        "version": "2.4"
+    },
+    {
+        "name": "Shikanoin Heizou",
+        "quality": "4 Stars",
+        "element": "Anemo",
+        "weapon": "Catalyst",
+        "region": "Inazuma",
+        "model_type": "Medium Male",
+        "release_date": "July 13, 2022",
+        "version": "2.8"
+    },
+    {
+        "name": "Sigewinne",
+        "quality": "5 Stars",
+        "element": "Hydro",
+        "weapon": "Bow",
+        "region": "Fontaine",
+        "model_type": "Short Female",
+        "release_date": "June 25, 2024",
+        "version": "4.7"
+    },
+    {
+        "name": "Skirk",
+        "quality": "5 Stars",
+        "element": "Cryo",
+        "weapon": "Sword",
+        "region": "None",
+        "model_type": "Medium Female",
+        "release_date": "June 18, 2025",
+        "version": "5.7"
+    },
+    {
+        "name": "Sucrose",
+        "quality": "4 Stars",
+        "element": "Anemo",
+        "weapon": "Catalyst",
+        "region": "Mondstadt",
+        "model_type": "Medium Female",
+        "release_date": "September 28, 2020",
+        "version": "1.0"
+    },
+    {
+        "name": "Tartaglia",
+        "quality": "5 Stars",
+        "element": "Hydro",
+        "weapon": "Bow",
+        "region": "Snezhnaya",
+        "model_type": "Tall Male",
+        "release_date": "November 11, 2020",
+        "version": "1.1"
+    },
+    {
+        "name": "Thoma",
+        "quality": "4 Stars",
+        "element": "Pyro",
+        "weapon": "Polearm",
+        "region": "Inazuma",
+        "model_type": "Tall Male",
+        "release_date": "November 02, 2021",
+        "version": "2.2"
+    },
+    {
+        "name": "Tighnari",
+        "quality": "5 Stars",
+        "element": "Dendro",
+        "weapon": "Bow",
+        "region": "Sumeru",
+        "model_type": "Medium Male",
+        "release_date": "August 24, 2022",
+        "version": "3.0"
+    },
+    {
+        "name": "Traveler",
+        "quality": "5 Stars",
+        "element": "None",
+        "weapon": "Sword",
+        "region": "None",
+        "model_type": "Aether:Medium MaleLumine:Medium Female",
+        "release_date": "September 28, 2020",
+        "version": "1.0"
+    },
+    {
+        "name": "Varesa",
+        "quality": "5 Stars",
+        "element": "Electro",
+        "weapon": "Catalyst",
+        "region": "Natlan",
+        "model_type": "Medium Female",
+        "release_date": "March 26, 2025",
+        "version": "5.5"
+    },
+    {
+        "name": "Varka",
+        "quality": "5 Stars",
+        "element": "Anemo",
+        "weapon": "Claymore",
+        "region": "Mondstadt",
+        "model_type": "Tall Male",
+        "release_date": "February 25, 2026",
+        "version": "Luna V"
+    },
+    {
+        "name": "Venti",
+        "quality": "5 Stars",
+        "element": "Anemo",
+        "weapon": "Bow",
+        "region": "Mondstadt",
+        "model_type": "Medium Male",
+        "release_date": "September 28, 2020",
+        "version": "1.0"
+    },
+    {
+        "name": "Wanderer",
+        "quality": "5 Stars",
+        "element": "Anemo",
+        "weapon": "Catalyst",
+        "region": "Sumeru",
+        "model_type": "Medium Male",
+        "release_date": "December 07, 2022",
+        "version": "3.3"
+    },
+    {
+        "name": "Wonderland Manekin",
+        "quality": "5 Stars",
+        "element": "None",
+        "weapon": "Sword",
+        "region": "None",
+        "model_type": "Manekin:Medium MaleManekina:Medium Female",
+        "release_date": "October 22, 2025",
+        "version": "Luna II"
+    },
+    {
+        "name": "Wriothesley",
+        "quality": "5 Stars",
+        "element": "Cryo",
+        "weapon": "Catalyst",
+        "region": "Fontaine",
+        "model_type": "Tall Male",
+        "release_date": "October 17, 2023",
+        "version": "4.1"
+    },
+    {
+        "name": "Xiangling",
+        "quality": "4 Stars",
+        "element": "Pyro",
+        "weapon": "Polearm",
+        "region": "Liyue",
+        "model_type": "Medium Female",
+        "release_date": "September 28, 2020",
+        "version": "1.0"
+    },
+    {
+        "name": "Xianyun",
+        "quality": "5 Stars",
+        "element": "Anemo",
+        "weapon": "Catalyst",
+        "region": "Liyue",
+        "model_type": "Tall Female",
+        "release_date": "January 31, 2024",
+        "version": "4.4"
+    },
+    {
+        "name": "Xiao",
+        "quality": "5 Stars",
+        "element": "Anemo",
+        "weapon": "Polearm",
+        "region": "Liyue",
+        "model_type": "Medium Male",
+        "release_date": "February 03, 2021",
+        "version": "1.3"
+    },
+    {
+        "name": "Xilonen",
+        "quality": "5 Stars",
+        "element": "Geo",
+        "weapon": "Sword",
+        "region": "Natlan",
+        "model_type": "Tall Female",
+        "release_date": "October 09, 2024",
+        "version": "5.1"
+    },
+    {
+        "name": "Xingqiu",
+        "quality": "4 Stars",
+        "element": "Hydro",
+        "weapon": "Sword",
+        "region": "Liyue",
+        "model_type": "Medium Male",
+        "release_date": "September 28, 2020",
+        "version": "1.0"
+    },
+    {
+        "name": "Xinyan",
+        "quality": "4 Stars",
+        "element": "Pyro",
+        "weapon": "Claymore",
+        "region": "Liyue",
+        "model_type": "Medium Female",
+        "release_date": "December 01, 2020",
+        "version": "1.1"
+    },
+    {
+        "name": "Yae Miko",
+        "quality": "5 Stars",
+        "element": "Electro",
+        "weapon": "Catalyst",
+        "region": "Inazuma",
+        "model_type": "Tall Female",
+        "release_date": "February 16, 2022",
+        "version": "2.5"
+    },
+    {
+        "name": "Yanfei",
+        "quality": "4 Stars",
+        "element": "Pyro",
+        "weapon": "Catalyst",
+        "region": "Liyue",
+        "model_type": "Medium Female",
+        "release_date": "April 28, 2021",
+        "version": "1.5"
+    },
+    {
+        "name": "Yaoyao",
+        "quality": "4 Stars",
+        "element": "Dendro",
+        "weapon": "Polearm",
+        "region": "Liyue",
+        "model_type": "Short Female",
+        "release_date": "January 18, 2023",
+        "version": "3.4"
+    },
+    {
+        "name": "Yelan",
+        "quality": "5 Stars",
+        "element": "Hydro",
+        "weapon": "Bow",
+        "region": "Liyue",
+        "model_type": "Tall Female",
+        "release_date": "May 31, 2022",
+        "version": "2.7"
+    },
+    {
+        "name": "Yoimiya",
+        "quality": "5 Stars",
+        "element": "Pyro",
+        "weapon": "Bow",
+        "region": "Inazuma",
+        "model_type": "Medium Female",
+        "release_date": "August 10, 2021",
+        "version": "2.0"
+    },
+    {
+        "name": "Yumemizuki Mizuki",
+        "quality": "5 Stars",
+        "element": "Anemo",
+        "weapon": "Catalyst",
+        "region": "Inazuma",
+        "model_type": "Medium Female",
+        "release_date": "February 12, 2025",
+        "version": "5.4"
+    },
+    {
+        "name": "Yun Jin",
+        "quality": "4 Stars",
+        "element": "Geo",
+        "weapon": "Polearm",
+        "region": "Liyue",
+        "model_type": "Medium Female",
+        "release_date": "January 05, 2022",
+        "version": "2.4"
+    },
+    {
+        "name": "Zhongli",
+        "quality": "5 Stars",
+        "element": "Geo",
+        "weapon": "Polearm",
+        "region": "Liyue",
+        "model_type": "Tall Male",
+        "release_date": "December 01, 2020",
+        "version": "1.1"
+    },
+    {
+        "name": "Zibai",
+        "quality": "5 Stars",
+        "element": "Geo",
+        "weapon": "Sword",
+        "region": "Liyue",
+        "model_type": "Tall Female",
+        "release_date": "February 03, 2026",
+        "version": "Luna IV"
+    }
+]
